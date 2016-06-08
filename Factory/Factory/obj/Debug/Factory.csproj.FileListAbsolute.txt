@@ -1,0 +1,5 @@
+C:\Users\Kadir\Desktop\TasarımKaliplari\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\Kadir\Desktop\TasarımKaliplari\Factory\Factory\bin\Debug\Factory.exe
+C:\Users\Kadir\Desktop\TasarımKaliplari\Factory\Factory\bin\Debug\Factory.pdb
+C:\Users\Kadir\Desktop\TasarımKaliplari\Factory\Factory\obj\Debug\Factory.exe
+C:\Users\Kadir\Desktop\TasarımKaliplari\Factory\Factory\obj\Debug\Factory.pdb
